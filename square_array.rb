@@ -6,3 +6,11 @@ def square_array(array)
   end
   a
 end
+
+
+=begin 
+
+a.collect { |x| x + "!" }
+
+=end
+
